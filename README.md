@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of ernestdefoe/time-capsule.** Not for installation: use [Packagist](https://packagist.org/packages/ernestdefoe/time-capsule) or the [upstream repository](https://github.com/ernestdefoe/time-capsule).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/ernestdefoe-time-capsule/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^2.0`
+**1** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/ernestdefoe-time-capsule/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-11-10 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-time-capsule/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/ernestdefoe-time-capsule.json](https://github.com/flarchive/archive-index/blob/main/packages/ernestdefoe-time-capsule.json)
 
